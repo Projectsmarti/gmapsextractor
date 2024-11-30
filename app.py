@@ -9,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 import re
 import undetected_chromedriver as uc
+from packaging.version import Version as LooseVersion
 
 
 def get_chrome_options():
