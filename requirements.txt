@@ -18,7 +18,7 @@ flake8       # Linting tool
 numpy      # Numerical computing library
 
 # Browser Automation Requirements
-undetected-chromedriver==3.5.4  # Advanced Chrome automation
+undetected-chromedriver  # Advanced Chrome automation
 
 # System and Compatibility
-typing-extensions==4.9.0  # Type hinting support
+typing-extensions  # Type hinting support
