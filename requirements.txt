@@ -1,22 +1,21 @@
 # Core Python Libraries
-pandas==2.1.4
-selenium==4.16.1
-streamlit==1.29.0
+pandas
+selenium
+streamlit
 
 # Web Automation and Browser Support
-webdriver-manager==4.0.1
+webdriver-manager
 
 # Optional: Additional utilities
-python-dotenv==1.0.0  # For environment variable management
-requests==2.31.0      # HTTP library for additional web interactions
-
+python-dotenv
+requests
 # Development and Testing
-pytest==7.4.4         # Testing framework
-black==23.12.1        # Code formatter
-flake8==6.1.0         # Linting tool
+pytest        # Testing framework
+black        # Code formatter
+flake8       # Linting tool
 
 # Data Processing and Analysis
-numpy==1.26.2         # Numerical computing library
+numpy      # Numerical computing library
 
 # Browser Automation Requirements
 undetected-chromedriver==3.5.4  # Advanced Chrome automation
