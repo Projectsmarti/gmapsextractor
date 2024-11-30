@@ -150,7 +150,7 @@ def main():
     """, unsafe_allow_html=True)
 
     st.title("🗺️ Google Maps Business Scraper")
-    st.write("Enter a search query to scrape business details from Google Maps")
+    st.write("Enter a search query to scrape business details ")
 
     # Search input
     search_query = st.text_input("Enter Search Query", placeholder="e.g., Car service center in palakkad")
