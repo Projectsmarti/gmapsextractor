@@ -3,6 +3,7 @@ pandas
 selenium
 streamlit
 openpyxl
+packaging
 
 # Web Automation and Browser Support
 webdriver-manager
